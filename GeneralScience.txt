@@ -1,0 +1,20 @@
+3 A
+1. Yogurt is produced by bacterial fermentation of milk.
+A. True
+B. False
+3 B
+2. Dogs are herbivores.
+A. True
+B. False
+3 A
+3. DNA is the shortened form of the term Deoxyribonucleic acid?
+A. True
+B. False
+3 A
+4. Frogs are cold blooded animals.
+A. True
+B. False
+3 B
+5. Sharks have bones in their bodies.
+A. True
+B. False

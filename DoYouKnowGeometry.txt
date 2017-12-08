@@ -1,0 +1,27 @@
+4 B
+1. What is the best description of a point?
+A. Straight path that has no thickness and extends forever
+B. Names a location and has no size
+C. Flat surface that has no thickness and extends forever
+4 C
+2. What is the best description of a plane?
+A. straight path that has no thickness and extends forever
+B. Names a location and has no size
+C. Flat surface that has no thickness and extends forever
+4 A
+3. What is the best description of a line?
+A. straight path that has no thickness and extends forever
+B. Names a location and has no size
+C. Flat surface that has no thickness and extends forever
+5 C
+4. What is the definition of coplanar?
+A. A point at the end of a segment or the starting point of a ray
+B. Points that lie on the same line
+C. Points that lie on the same plane
+D. Part of a line consisting of two points and all points between them
+5 B
+5. What is the definition of collinear?
+A: A part of a line that starts at an endpoint and goes on forever
+B: Points that lie on the same line
+C: Points that lie on the same plane
+D: A point at the end of a segment or the starting point of a ray

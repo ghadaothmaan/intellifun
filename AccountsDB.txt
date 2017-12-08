@@ -1,0 +1,11 @@
+Student|Salma Hassan|1111|salma@mail.com|14
+Student|Menna Fateen|2222|menna@mail.com|100
+Student|Fawzeya Fawzy|3333|ghada@mail.com|30
+Student|Bayan Mokhtar|4444|bayan@mail.com|40
+Teacher|Nora Ali|5555|nora@mail.edu|0
+Teacher|Ahmed Emad|6666|ahmed@mail.edu|0
+Student|Soso|Dodododoodod|soso@lala|0
+Teacher|gee123|Ghada123|abc@example.edu|0
+Student|3b3al|Amazing123|3b3al@lalaland.com|0
+Student|sawsan|Sawsansoso|abc@example.com|0
+Student|hezem hatem|Lololol123|haha@hmail.com|0
